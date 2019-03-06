@@ -1,0 +1,25 @@
+
+body {
+background-color: #F5F8FA;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.box-shadow
+{
+     box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+table, th, td
+ {
+     border: 1px solid rgb(123, 130, 131);
+     background-color: white; 
+     border-radius: 4px; 
+     margin-left : 10px;
+    }
+.space1
+{
+     line-height: 70%;
+     display: block; 
+     align-content: flex-start; 
+     margin-bottom: 4px;
+}
